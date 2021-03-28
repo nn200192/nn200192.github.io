@@ -8,5 +8,3 @@ layout: page
 #### Temperature: 75F
 #### Lighting: High
 #### Time of day: Sun Feb 28 10:24AM
-
-
