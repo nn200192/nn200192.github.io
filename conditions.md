@@ -6,5 +6,5 @@ layout: page
 
 #### Humidity: 43%
 #### Temperature: 75F
-#### Lighting: High
-#### Time of day: Sun Mar 28 15:26:00 CDT 2021
+#### Lighting: Low
+#### Time of day: Mon Mar 29 13:52:16 CDT 2021
