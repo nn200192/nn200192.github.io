@@ -5,6 +5,6 @@ layout: page
 
 
 #### Humidity: 0%
-#### Temperature: 0F
+#### Temperature: F
 #### Lighting: Low
-#### Time of last update: Tue Mar 30 13:48:17 CDT 2021
+#### Time of last update: Tue Mar 30 16:35:02 CDT 2021
