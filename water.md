@@ -3,7 +3,7 @@ layout: page
 title: Plants' watering schedule
 ---
 
-#### Cycles: 5 days a week
-#### Time of watering: Sunday, Monday, Tuesday, Thursday, Saturday
+#### Cycles: 2 days a week
+#### Time of watering: Sunday, Wednesday
 #### Amount of water every cycle: 16oz
 
