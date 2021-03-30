@@ -4,7 +4,7 @@ layout: page
 ---
 
 
-#### Humidity: 43%
-#### Temperature: 75F
+#### Humidity: %
+#### Temperature: F
 #### Lighting: Low
 #### Time of day: Mon Mar 29 16:26:04 CDT 2021
