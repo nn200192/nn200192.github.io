@@ -8,7 +8,9 @@ tags:
  - plants
 ---
 <br>
+<div align="center">
 <iframe
   src="https://www.thesill.com/blogs/plants-101/drink-up/"
   style="width:140%; height:19000px;"
 ></iframe>
+</div>
