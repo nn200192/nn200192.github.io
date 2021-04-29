@@ -6,5 +6,5 @@ layout: page
 
 #### Humidity: 49%
 #### Temperature: 71F
-#### Lighting: Medium
-#### Time of last update: Wed Apr 28 19:52:01 CDT 2021
+#### Lighting: Low
+#### Time of last update: Wed Apr 28 19:53:01 CDT 2021
